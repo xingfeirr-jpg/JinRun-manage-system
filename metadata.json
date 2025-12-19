@@ -1,0 +1,5 @@
+{
+  "name": "AutoFix Pro - 修车管理系统",
+  "description": "一个全方位的修车厂管理系统，支持用户管理、车辆档案、储值管理及AI驱动的维修建议。提供管理员与普通用户双权限模式。",
+  "requestFramePermissions": []
+}
